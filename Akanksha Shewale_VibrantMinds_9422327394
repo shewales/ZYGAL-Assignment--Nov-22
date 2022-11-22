@@ -1,7 +1,0 @@
-class solution
-{
-public void rotate(int[][] block){
-int[][] ans = new int [block.lenghth][block[0].lenghth];
-int n = block.length;
-
-for(int i = 0;i<n;i++){
